@@ -1,0 +1,35 @@
+body{
+    background-image: url("resources/bg.jpg");
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    overflow: hidden;
+    color: white;
+    animation-name: wave;
+    animation-duration: 1s;
+}
+@media only screen and (min-aspect-ratio:1200/675){
+@keyframes wave {
+    0%{background-size: 200%;}
+    99.99%{background-size: 100%;}
+    100%{background-size: cover;}
+}}
+
+td{
+    border:black solid 5px;
+    border-radius: 10px;
+    background-color: white;
+}
+div{
+    margin: 20px;
+    background-color: aqua;
+    border: green solid 2px;
+    border-radius: 10px;
+
+}
+table{
+    z-index: 1;
+    position: absolute;
+    top:30%;
+}
