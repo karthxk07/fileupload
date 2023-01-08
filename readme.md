@@ -12,14 +12,14 @@ Welcome to the file upload website! This website allows you to upload files to s
 
 ## Contributing
  - If you want to contribute to this website, you can make a pull request. Here's how to do it:
+ 
+   - Fork the repository
+   - Create a new branch on your fork.
+   - Make your changes on the new branch.
+   - Commit your changes and push the branch to your fork.
+   - Open a pull request from your branch to the upstream repository.
 
-  - Fork the repository.
-  - Create a new branch on your fork.
-  - Make your changes on the new branch.
-  - Commit your changes and push the branch to your fork.
-  - Open a pull request from your branch to the upstream repository.
-
-We will review your pull request and merge it if it meets our guidelines. Thank you for considering contributing to this project!
+We will review your pull request and merge it. Thank you for considering contributing to this project!
 
 
 
