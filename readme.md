@@ -6,6 +6,9 @@ Welcome to the file upload website! This website allows you to upload files to s
 ## ✔️ Uploading a file
 - To upload a file, click the "Choose File" button and select the file you want to upload from your computer. Then, click the "Upload" button to start the upload process.
 
+## Technologies Used
+ - The file storage is supported by 🔥Firebase
+ - The website is built with Vanilla HTML, CSS and Javascript
 
-## ✔️ Credits
-This website was built by [Karthik](https://www.github.com/kathxk07) and is powered by 🔥Firebase.
+### ✔️ Credits
+Creator : [Karthik](https://www.github.com/kathxk07) 
